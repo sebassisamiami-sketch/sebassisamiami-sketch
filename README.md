@@ -115,6 +115,7 @@ const sebastian = {
 
 <p align="center">
   <a href="https://github.com/sebassisamiami-sketch"><img src="https://img.shields.io/badge/GitHub-sebassisamiami--sketch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:sebastian.sisatravel@gmail.com"><img src="https://img.shields.io/badge/Correo-sebastian.sisatravel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
   <!-- Pon aquí tu LinkedIn: -->
   <!-- <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Sebastian_Siabato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
 </p>
