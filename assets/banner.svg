@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Sebastian Siabato — Software Developer · Data &amp; Game Dev">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#9be7ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      .t { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+      .name { font-size: 64px; font-weight: 800; letter-spacing: 1px; opacity: 0; animation: fade 1.2s ease-out .2s forwards; }
+      .sub  { font-size: 22px; font-weight: 500; fill: #cfefff; letter-spacing: 3px; opacity: 0; animation: fade 1.2s ease-out .8s forwards; }
+      .dot  { fill: #36bcf7; animation: blink 2.4s ease-in-out infinite; }
+      .code { font-family: 'Fira Code', Consolas, monospace; font-size: 16px; fill: #36bcf7; opacity: .35; }
+      @keyframes fade { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes blink { 0%,100% { opacity: .25; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- Fondo -->
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- Decoración de código -->
+  <text class="code" x="40" y="42">&lt;/&gt;</text>
+  <text class="code" x="1110" y="42">{ }</text>
+  <text class="code" x="70" y="150">SELECT *</text>
+  <text class="code" x="1040" y="140">void Forge()</text>
+
+  <!-- Puntos parpadeantes -->
+  <circle class="dot" cx="180" cy="70" r="3"/>
+  <circle class="dot" cx="1000" cy="90" r="3" style="animation-delay:.6s"/>
+  <circle class="dot" cx="300" cy="170" r="2.5" style="animation-delay:1.2s"/>
+  <circle class="dot" cx="900" cy="175" r="2.5" style="animation-delay:1.8s"/>
+
+  <!-- Texto -->
+  <text class="t name" x="600" y="112" text-anchor="middle" fill="url(#txt)">Sebastian Siabato</text>
+  <text class="t sub" x="600" y="152" text-anchor="middle">SOFTWARE DEVELOPER  •  DATA &amp; GAME DEV</text>
+
+  <!-- Olas animadas -->
+  <path d="M0 205 C200 175 400 235 600 205 C800 175 1000 235 1200 205 L1200 260 L0 260 Z" fill="#0d1117" fill-opacity=".35">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="
+      M0 205 C200 175 400 235 600 205 C800 175 1000 235 1200 205 L1200 260 L0 260 Z;
+      M0 205 C200 235 400 175 600 205 C800 235 1000 175 1200 205 L1200 260 L0 260 Z;
+      M0 205 C200 175 400 235 600 205 C800 175 1000 235 1200 205 L1200 260 L0 260 Z"/>
+  </path>
+  <path d="M0 225 C250 245 450 200 600 222 C780 248 950 205 1200 225 L1200 260 L0 260 Z" fill="#0d1117" fill-opacity=".6">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="
+      M0 225 C250 245 450 200 600 222 C780 248 950 205 1200 225 L1200 260 L0 260 Z;
+      M0 225 C250 205 450 248 600 222 C780 200 950 245 1200 225 L1200 260 L0 260 Z;
+      M0 225 C250 245 450 200 600 222 C780 248 950 205 1200 225 L1200 260 L0 260 Z"/>
+  </path>
+</svg>
