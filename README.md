@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Estado-Disponible_para_trabajar-2ea44f?style=for-the-badge" alt="Disponible"/>
   <img src="https://img.shields.io/badge/Inglés-B1%2B-36BCF7?style=for-the-badge" alt="Inglés B1+"/>
   <a href="https://skillshop.credential.net/6dc12d1f-290f-49a6-9bfa-4422e884d591"><img src="https://img.shields.io/badge/Google_Analytics-Certificado-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics Certificado"/></a>
+  <img src="https://img.shields.io/badge/Oracle_SQL-98%25-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL 98%"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sebassisamiami-sketch.sebassisamiami-sketch&left_text=VISITAS&left_color=%230f2027&right_color=%2336bcf7" height="28" alt="Visitas al perfil"/>
 </p>
 
@@ -30,14 +31,14 @@ const sebastian = {
   experiencia: "2 años como Analista de Procesos en Corus Systems",
   fuerte_en:   ["SQL", "Calidad de datos", "Cumplimiento normativo (UGPP)", "Automatización con IA"],
   creando:     ["Videojuegos en Unity y Roblox", "Sitios web para negocios", "Herramientas con IA"],
-  certificado: "Google Analytics (Google, 2026)",
+  certificados: ["Google Analytics (Google, 2026)", "Oracle SQL: Databases for Developers (Oracle, 2026)"],
   idiomas:     { español: "nativo", ingles: "B1+" },
   busco:       "Mi próximo reto como desarrollador o analista de datos 🚀",
 };
 ```
 
 - 📊 Pasé **2 años** asegurando la **calidad de datos** y el **cumplimiento normativo (UGPP)** con SQL en Corus Systems.
-- 🏅 Estoy **certificado en Google Analytics 4** por Google (2026).
+- 🏅 Estoy **certificado en Google Analytics 4** por Google y completé **Databases for Developers** de **Oracle** con 98% (2026).
 - 🎓 Estoy homologando mis estudios hacia **Ingeniería de Software** en el Politécnico Grancolombiano.
 - 🎮 En mis ratos libres construyo **videojuegos**: un simulador de herrería para **Steam** (Unity / C#) y juegos en **Roblox** (Luau).
 - 🤖 Me apasiona usar **inteligencia artificial** para automatizar tareas y crear herramientas útiles.
@@ -54,6 +55,11 @@ const sebastian = {
       <b>Google Analytics</b><br/>
       <sub>Google Skillshop · 2026</sub><br/>
       <sub><a href="https://skillshop.credential.net/6dc12d1f-290f-49a6-9bfa-4422e884d591">Ver credencial</a></sub>
+    </td>
+    <td align="center" width="180">
+      <img src="./assets/cert-oracle.svg" width="130" alt="Oracle SQL - Databases for Developers: Foundations 2026"/><br/>
+      <b>Oracle SQL</b><br/>
+      <sub>Oracle Dev Gym · 2026 · 98%</sub>
     </td>
     <td align="center" width="180">
       <!-- Enlace de verificación pendiente (ude.my/UC-...) -->
