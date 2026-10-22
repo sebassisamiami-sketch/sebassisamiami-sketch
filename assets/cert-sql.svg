@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260">
+  <rect width="260" height="260" fill="#ffffff"/>
+  <defs>
+    <path id="arcTop" d="M 47 130 A 83 83 0 0 1 213 130"/>
+    <path id="arcBot" d="M 36 130 A 94 94 0 0 0 224 130"/>
+  </defs>
+  <circle cx="130" cy="130" r="118" fill="#ffffff" stroke="#c9ced6" stroke-width="2"/>
+  <circle cx="130" cy="130" r="104" fill="none" stroke="#9aa3ad" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+  <circle cx="130" cy="130" r="72" fill="none" stroke="#A435F0" stroke-width="14"/>
+  <circle cx="130" cy="130" r="72" fill="none" stroke="#5b1b8a" stroke-width="14" stroke-dasharray="113 340" transform="rotate(-90 130 130)"/>
+  <text font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="14" letter-spacing="2" fill="#4a5360">
+    <textPath href="#arcTop" startOffset="50%" text-anchor="middle">UDEMY</textPath>
+  </text>
+  <text font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="10.5" letter-spacing="1.4" fill="#4a5360">
+    <textPath href="#arcBot" startOffset="50%" text-anchor="middle">CURSO COMPLETADO · 2026</textPath>
+  </text>
+  <text x="130" y="141" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="34" fill="#1d2733">SQL</text>
+</svg>
