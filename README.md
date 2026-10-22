@@ -47,24 +47,33 @@ const sebastian = {
 
 ## 🏅 Certificaciones
 
-<p align="center">
-  <a href="https://skillshop.credential.net/6dc12d1f-290f-49a6-9bfa-4422e884d591">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197913645" width="130" alt="Google Analytics Certified"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Google Analytics Certification</b> · Google Skillshop · 2026<br/>
-  <a href="https://skillshop.credential.net/6dc12d1f-290f-49a6-9bfa-4422e884d591">Ver credencial verificada</a>
-</p>
-
-<p align="center">
-  <!-- Enlace de verificación pendiente (ude.my/UC-...) -->
-  <img src="https://img.shields.io/badge/SQL-Udemy%20%C2%B7%202026-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="SQL - Udemy 2026"/>
-  <!-- Enlace de verificación pendiente (ude.my/UC-...) -->
-  <img src="https://img.shields.io/badge/Python%20con%20IA-Udemy%20%C2%B7%202026-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Python con IA - Udemy 2026"/>
-  <img src="https://img.shields.io/badge/Python%20y%20MySQL-Certificaci%C3%B3n%20t%C3%A9cnica%20%C2%B7%202026-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python y MySQL - Certificación técnica 2026"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <a href="https://skillshop.credential.net/6dc12d1f-290f-49a6-9bfa-4422e884d591"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197913645" width="130" alt="Google Analytics Certified"/></a><br/>
+      <b>Google Analytics</b><br/>
+      <sub>Google Skillshop · 2026</sub><br/>
+      <sub><a href="https://skillshop.credential.net/6dc12d1f-290f-49a6-9bfa-4422e884d591">Ver credencial</a></sub>
+    </td>
+    <td align="center" width="180">
+      <!-- Enlace de verificación pendiente (ude.my/UC-...) -->
+      <img src="./assets/cert-sql.svg" width="130" alt="SQL - Udemy 2026"/><br/>
+      <b>SQL</b><br/>
+      <sub>Udemy · 2026</sub>
+    </td>
+    <td align="center" width="180">
+      <!-- Enlace de verificación pendiente (ude.my/UC-...) -->
+      <img src="./assets/cert-python-ia.svg" width="130" alt="Python con IA - Udemy 2026"/><br/>
+      <b>Python con IA</b><br/>
+      <sub>Udemy · 2026</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="./assets/cert-python-mysql.svg" width="130" alt="Python y MySQL - Certificación técnica 2026"/><br/>
+      <b>Python y MySQL</b><br/>
+      <sub>Certificación técnica · 2026</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
