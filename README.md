@@ -82,8 +82,8 @@ const sebastian = {
 ## 🚀 Proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/sebassisamiami-sketch/IA-corus-intranet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=IA-corus-intranet&theme=tokyonight&hide_border=true&border_radius=10" alt="IA-corus-intranet"/>
+  <a href="https://github.com/sebassisamiami-sketch/asistente-ia-procesos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=asistente-ia-procesos&theme=tokyonight&hide_border=true&border_radius=10" alt="asistente-ia-procesos"/>
   </a>
   <a href="https://github.com/sebassisamiami-sketch/Bitacora-IA-sena">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=Bitacora-IA-sena&theme=tokyonight&hide_border=true&border_radius=10" alt="Bitacora-IA-sena"/>
