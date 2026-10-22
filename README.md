@@ -58,6 +58,14 @@ const sebastian = {
   <a href="https://skillshop.credential.net/6dc12d1f-290f-49a6-9bfa-4422e884d591">Ver credencial verificada</a>
 </p>
 
+<p align="center">
+  <!-- Enlace de verificación pendiente (ude.my/UC-...) -->
+  <img src="https://img.shields.io/badge/SQL-Udemy%20%C2%B7%202026-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="SQL - Udemy 2026"/>
+  <!-- Enlace de verificación pendiente (ude.my/UC-...) -->
+  <img src="https://img.shields.io/badge/Python%20con%20IA-Udemy%20%C2%B7%202026-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Python con IA - Udemy 2026"/>
+  <img src="https://img.shields.io/badge/Python%20y%20MySQL-Certificaci%C3%B3n%20t%C3%A9cnica%20%C2%B7%202026-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python y MySQL - Certificación técnica 2026"/>
+</p>
+
 ---
 
 ## 🛠️ Tecnologías y herramientas
