@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/📍_Bogotá,_Colombia-0f2027?style=for-the-badge" alt="Ubicación"/>
   <img src="https://img.shields.io/badge/Estado-Disponible_para_trabajar-2ea44f?style=for-the-badge" alt="Disponible"/>
   <img src="https://img.shields.io/badge/Inglés-B1%2B-36BCF7?style=for-the-badge" alt="Inglés B1+"/>
+  <a href="https://skillshop.credential.net/6dc12d1f-290f-49a6-9bfa-4422e884d591"><img src="https://img.shields.io/badge/Google_Analytics-Certificado-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics Certificado"/></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sebassisamiami-sketch.sebassisamiami-sketch&left_text=VISITAS&left_color=%230f2027&right_color=%2336bcf7" height="28" alt="Visitas al perfil"/>
 </p>
 
@@ -29,16 +30,33 @@ const sebastian = {
   experiencia: "2 años como Analista de Procesos en Corus Systems",
   fuerte_en:   ["SQL", "Calidad de datos", "Cumplimiento normativo (UGPP)", "Automatización con IA"],
   creando:     ["Videojuegos en Unity y Roblox", "Sitios web para negocios", "Herramientas con IA"],
+  certificado: "Google Analytics (Google, 2026)",
   idiomas:     { español: "nativo", ingles: "B1+" },
   busco:       "Mi próximo reto como desarrollador o analista de datos 🚀",
 };
 ```
 
 - 📊 Pasé **2 años** asegurando la **calidad de datos** y el **cumplimiento normativo (UGPP)** con SQL en Corus Systems.
+- 🏅 Estoy **certificado en Google Analytics 4** por Google (2026).
 - 🎓 Estoy homologando mis estudios hacia **Ingeniería de Software** en el Politécnico Grancolombiano.
 - 🎮 En mis ratos libres construyo **videojuegos**: un simulador de herrería para **Steam** (Unity / C#) y juegos en **Roblox** (Luau).
 - 🤖 Me apasiona usar **inteligencia artificial** para automatizar tareas y crear herramientas útiles.
 - 💬 Pregúntame sobre **SQL, automatización, desarrollo web o diseño de juegos**.
+
+---
+
+## 🏅 Certificaciones
+
+<p align="center">
+  <a href="https://skillshop.credential.net/6dc12d1f-290f-49a6-9bfa-4422e884d591">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197913645" width="130" alt="Google Analytics Certified"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Google Analytics Certification</b> · Google Skillshop · 2026<br/>
+  <a href="https://skillshop.credential.net/6dc12d1f-290f-49a6-9bfa-4422e884d591">Ver credencial verificada</a>
+</p>
 
 ---
 
@@ -55,6 +73,7 @@ const sebastian = {
   <img src="https://img.shields.io/badge/Luau-Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white" alt="Luau"/>
   <img src="https://img.shields.io/badge/Unity-C%23-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/IA-Automatización-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="IA"/>
+  <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics 4"/>
   <img src="https://img.shields.io/badge/Calidad_de_Datos-UGPP-F29111?style=flat-square&logo=googlesheets&logoColor=white" alt="Calidad de datos"/>
 </p>
 
@@ -116,8 +135,7 @@ const sebastian = {
 <p align="center">
   <a href="https://github.com/sebassisamiami-sketch"><img src="https://img.shields.io/badge/GitHub-sebassisamiami--sketch-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:sebastian.sisatravel@gmail.com"><img src="https://img.shields.io/badge/Correo-sebastian.sisatravel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
-  <!-- Pon aquí tu LinkedIn: -->
-  <!-- <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Sebastian_Siabato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
+  <a href="https://www.linkedin.com/in/devkevin-sebastian-siabato-salgado/"><img src="https://img.shields.io/badge/LinkedIn-Kevin_Siabato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
