@@ -117,6 +117,7 @@ const sebastian = {
 
 | Proyecto | Qué es | Tecnología |
 |---|---|---|
+| 🖱️ **[Tu Página a un Clic](https://tupaginaaunclic.com)** | Página de mis servicios de diseño web y apps: simulador para armar tu página, galería de 30 estilos y panel de clientes | HTML · CSS · JS · Firebase |
 | ⚒️ **Waterfall Forge** | Simulador incremental de herrería junto a una cascada, pensado para **Steam** | Unity · C# |
 | ⏳ **Chrono-Heist: Paradox** | Juego de atracos con viajes en el tiempo, dividido en fases | Roblox · Luau |
 | 🧊 **Rompe el Cubo** | Juego incremental: rompe un cubo gigante en un bosque nocturno | Roblox · Luau |
