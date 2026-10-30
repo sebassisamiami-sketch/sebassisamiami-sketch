@@ -104,17 +104,12 @@ const sebastian = {
 
 ## 🚀 Proyectos destacados
 
-<p align="center">
-  <a href="https://github.com/sebassisamiami-sketch/asistente-ia-procesos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=asistente-ia-procesos&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="asistente-ia-procesos"/>
-  </a>
-  <a href="https://github.com/sebassisamiami-sketch/Bitacora-IA-sena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=Bitacora-IA-sena&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="Bitacora-IA-sena"/>
-  </a>
-  <a href="https://github.com/sebassisamiami-sketch/Tu-Pagina-A-un-clic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=Tu-Pagina-A-un-clic&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="Tu-Pagina-A-un-clic"/>
-  </a>
-</p>
+| Proyecto | Qué es | Tecnología |
+|---|---|---|
+| 🤖 **[asistente-ia-procesos](https://github.com/sebassisamiami-sketch/asistente-ia-procesos)** | Asistente de IA que responde dudas de procedimientos internos: busca el documento correcto y explica paso a paso | `Python` · `LangChain` · `ChromaDB` · `Docker` |
+| 📒 **[Bitacora-IA-sena](https://github.com/sebassisamiami-sketch/Bitacora-IA-sena)** | Bitácora de aprendizaje con apoyo de IA (proyecto del SENA) | `JavaScript` |
+| 🖱️ **[Tu Página a un Clic](https://tupaginaaunclic.com)** · [repo](https://github.com/sebassisamiami-sketch/Tu-Pagina-A-un-clic) | Página de mis servicios de diseño web y apps: simulador para armar tu página, galería de estilos y panel de clientes | `HTML` · `CSS` · `JS` · `Firebase` |
+
 <p align="center"><a href="https://tupaginaaunclic.com"><b>🖱️ Ver Tu Página a un Clic en vivo →</b></a></p>
 
 ### 🔨 En construcción
