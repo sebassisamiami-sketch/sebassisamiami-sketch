@@ -106,13 +106,13 @@ const sebastian = {
 
 <p align="center">
   <a href="https://github.com/sebassisamiami-sketch/asistente-ia-procesos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=asistente-ia-procesos&theme=tokyonight&hide_border=true&border_radius=10" alt="asistente-ia-procesos"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=asistente-ia-procesos&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="asistente-ia-procesos"/>
   </a>
   <a href="https://github.com/sebassisamiami-sketch/Bitacora-IA-sena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=Bitacora-IA-sena&theme=tokyonight&hide_border=true&border_radius=10" alt="Bitacora-IA-sena"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=Bitacora-IA-sena&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="Bitacora-IA-sena"/>
   </a>
   <a href="https://github.com/sebassisamiami-sketch/Tu-Pagina-A-un-clic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=Tu-Pagina-A-un-clic&theme=tokyonight&hide_border=true&border_radius=10" alt="Tu-Pagina-A-un-clic"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebassisamiami-sketch&repo=Tu-Pagina-A-un-clic&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" alt="Tu-Pagina-A-un-clic"/>
   </a>
 </p>
 <p align="center"><a href="https://tupaginaaunclic.com"><b>🖱️ Ver Tu Página a un Clic en vivo →</b></a></p>
@@ -132,8 +132,8 @@ const sebastian = {
 ## 📈 Estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sebassisamiami-sketch&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" alt="Estadísticas de GitHub"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebassisamiami-sketch&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Lenguajes más usados"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sebassisamiami-sketch&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="Estadísticas de GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebassisamiami-sketch&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&cache_seconds=86400" alt="Lenguajes más usados"/>
 </p>
 
 <p align="center">
